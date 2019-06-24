@@ -1,0 +1,834 @@
+由于文件 (符号) 而包含了归档成员
+
+/home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+                              /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o (fdt_path_offset)
+/home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+                              /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o (fdt_setprop)
+/home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+                              /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o) (_fdt_node_end_offset)
+/home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+                              /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o) (fdt_check_header)
+/home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(snprintf.o)
+                              /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o (vsnprintf)
+/home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memchr.o)
+                              /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o) (memchr)
+/home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcmp.o)
+                              /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o) (memcmp)
+/home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcpy.o)
+                              /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o (memcpy)
+/home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memmove.o)
+                              /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o) (memmove)
+/home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memset.o)
+                              /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o) (memset)
+/home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strlen.o)
+                              /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o (strlen)
+/home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strchr.o)
+                              /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o) (strchr)
+/home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(aeabi_ldivmod_asm.o)
+                              /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(snprintf.o) (__aeabi_uldivmod)
+/home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(aeabi_ldivmod.o)
+                              /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(aeabi_ldivmod_asm.o) (__ul_divmod)
+
+舍弃的输入节
+
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .comment       0x0000000000000000       0x2e /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+ .debug_macro   0x0000000000000000      0x8fe /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+ .debug_macro   0x0000000000000000      0x16d /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+ .debug_macro   0x0000000000000000       0x58 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+ .debug_macro   0x0000000000000000       0x58 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+ .debug_macro   0x0000000000000000       0x76 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+ .debug_macro   0x0000000000000000       0x10 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+ .comment       0x0000000000000000       0x2e /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/drivers/uart.o
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/drivers/uart.o
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/drivers/uart.o
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/drivers/uart.o
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/drivers/uart.o
+ .debug_macro   0x0000000000000000      0x8fe /home/mrh/open-tee/build/../out/bios-qemu/drivers/uart.o
+ .debug_macro   0x0000000000000000       0x7c /home/mrh/open-tee/build/../out/bios-qemu/drivers/uart.o
+ .debug_macro   0x0000000000000000      0x16d /home/mrh/open-tee/build/../out/bios-qemu/drivers/uart.o
+ .debug_macro   0x0000000000000000       0x76 /home/mrh/open-tee/build/../out/bios-qemu/drivers/uart.o
+ .debug_macro   0x0000000000000000       0x22 /home/mrh/open-tee/build/../out/bios-qemu/drivers/uart.o
+ .comment       0x0000000000000000       0x2e /home/mrh/open-tee/build/../out/bios-qemu/drivers/uart.o
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+ .debug_macro   0x0000000000000000      0x8fe /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+ .debug_macro   0x0000000000000000      0x16d /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+ .debug_macro   0x0000000000000000       0x76 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+ .debug_macro   0x0000000000000000       0x10 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+ .debug_macro   0x0000000000000000       0x40 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+ .debug_macro   0x0000000000000000       0x52 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+ .comment       0x0000000000000000       0x2e /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+ .debug_macro   0x0000000000000000      0x8fe /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+ .debug_macro   0x0000000000000000      0x16d /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+ .debug_macro   0x0000000000000000       0x76 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+ .debug_macro   0x0000000000000000       0x10 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+ .debug_macro   0x0000000000000000       0x40 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+ .debug_macro   0x0000000000000000       0x52 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+ .debug_macro   0x0000000000000000       0xda /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+ .debug_macro   0x0000000000000000       0x22 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+ .comment       0x0000000000000000       0x2e /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+ .debug_macro   0x0000000000000000      0x8fe /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+ .debug_macro   0x0000000000000000      0x16d /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+ .debug_macro   0x0000000000000000       0x76 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+ .debug_macro   0x0000000000000000       0x10 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+ .debug_macro   0x0000000000000000       0x40 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+ .debug_macro   0x0000000000000000       0x52 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+ .debug_macro   0x0000000000000000       0xda /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+ .debug_macro   0x0000000000000000       0x22 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+ .comment       0x0000000000000000       0x2e /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+ .debug_macro   0x0000000000000000      0x8fe /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+ .debug_macro   0x0000000000000000      0x16d /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+ .debug_macro   0x0000000000000000       0x76 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+ .debug_macro   0x0000000000000000       0x10 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+ .debug_macro   0x0000000000000000       0x40 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+ .debug_macro   0x0000000000000000       0x52 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+ .debug_macro   0x0000000000000000       0xda /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+ .debug_macro   0x0000000000000000       0x22 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+ .comment       0x0000000000000000       0x2e /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(snprintf.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(snprintf.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(snprintf.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(snprintf.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(snprintf.o)
+ .debug_macro   0x0000000000000000      0x8fe /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(snprintf.o)
+ .debug_macro   0x0000000000000000       0x76 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(snprintf.o)
+ .debug_macro   0x0000000000000000      0x16d /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(snprintf.o)
+ .debug_macro   0x0000000000000000       0x10 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(snprintf.o)
+ .debug_macro   0x0000000000000000       0x58 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(snprintf.o)
+ .comment       0x0000000000000000       0x2e /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(snprintf.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memchr.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memchr.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memchr.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memchr.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memchr.o)
+ .debug_macro   0x0000000000000000      0x8fe /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memchr.o)
+ .debug_macro   0x0000000000000000      0x16d /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memchr.o)
+ .debug_macro   0x0000000000000000       0x10 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memchr.o)
+ .debug_macro   0x0000000000000000       0x7c /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memchr.o)
+ .comment       0x0000000000000000       0x2e /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memchr.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcmp.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcmp.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcmp.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcmp.o)
+ .debug_macro   0x0000000000000000      0x8fe /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcmp.o)
+ .debug_macro   0x0000000000000000       0x7c /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcmp.o)
+ .debug_macro   0x0000000000000000      0x16d /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcmp.o)
+ .debug_macro   0x0000000000000000       0x10 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcmp.o)
+ .comment       0x0000000000000000       0x2e /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcmp.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcpy.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcpy.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcpy.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcpy.o)
+ .debug_macro   0x0000000000000000      0x8fe /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcpy.o)
+ .debug_macro   0x0000000000000000       0x7c /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcpy.o)
+ .debug_macro   0x0000000000000000      0x16d /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcpy.o)
+ .debug_macro   0x0000000000000000       0x10 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcpy.o)
+ .comment       0x0000000000000000       0x2e /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcpy.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memmove.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memmove.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memmove.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memmove.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memmove.o)
+ .debug_macro   0x0000000000000000      0x8fe /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memmove.o)
+ .debug_macro   0x0000000000000000      0x16d /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memmove.o)
+ .debug_macro   0x0000000000000000       0x10 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memmove.o)
+ .debug_macro   0x0000000000000000       0x7c /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memmove.o)
+ .debug_macro   0x0000000000000000       0x7c /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memmove.o)
+ .comment       0x0000000000000000       0x2e /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memmove.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memset.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memset.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memset.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memset.o)
+ .debug_macro   0x0000000000000000      0x8fe /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memset.o)
+ .debug_macro   0x0000000000000000       0x7c /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memset.o)
+ .debug_macro   0x0000000000000000      0x16d /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memset.o)
+ .debug_macro   0x0000000000000000       0x10 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memset.o)
+ .comment       0x0000000000000000       0x2e /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memset.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strlen.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strlen.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strlen.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strlen.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strlen.o)
+ .debug_macro   0x0000000000000000      0x8fe /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strlen.o)
+ .debug_macro   0x0000000000000000       0x7c /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strlen.o)
+ .debug_macro   0x0000000000000000      0x16d /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strlen.o)
+ .debug_macro   0x0000000000000000       0x10 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strlen.o)
+ .debug_macro   0x0000000000000000       0x7c /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strlen.o)
+ .comment       0x0000000000000000       0x2e /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strlen.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strchr.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strchr.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strchr.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strchr.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strchr.o)
+ .debug_macro   0x0000000000000000      0x8fe /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strchr.o)
+ .debug_macro   0x0000000000000000       0x7c /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strchr.o)
+ .debug_macro   0x0000000000000000      0x16d /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strchr.o)
+ .debug_macro   0x0000000000000000       0x10 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strchr.o)
+ .debug_macro   0x0000000000000000       0x7c /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strchr.o)
+ .comment       0x0000000000000000       0x2e /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strchr.o)
+ .group         0x0000000000000000        0x8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(aeabi_ldivmod.o)
+ .debug_macro   0x0000000000000000      0x8fe /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(aeabi_ldivmod.o)
+ .comment       0x0000000000000000       0x2e /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(aeabi_ldivmod.o)
+
+内存配置
+
+名称           来源             长度             属性
+*default*        0x0000000000000000 0xffffffffffffffff
+
+链结器命令稿和内存映射
+
+                0x0000000040100000                . = 0x40100000
+
+.text           0x0000000040100000     0x4f80
+                0x0000000040100000                __text_start = .
+ *(.text.boot.vectab1)
+ *(.text.boot.vectab2)
+ *(.text.boot)
+ .text.boot     0x0000000040100000      0x130 /home/mrh/open-tee/build/../out/bios-qemu/bios/entry.o
+                0x0000000040100000                _start
+ *(.text* .sram.text.glue_7* .gnu.linkonce.t.*)
+ .text          0x0000000040100130        0x0 /home/mrh/open-tee/build/../out/bios-qemu/bios/entry.o
+ .text          0x0000000040100130      0x800 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+                0x0000000040100214                msg
+                0x000000004010049c                main_init_sec
+                0x00000000401008f8                main_init_ns
+ .text          0x0000000040100930      0x3fc /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+                0x0000000040100974                semihosting_connection_supported
+                0x0000000040100988                semihosting_file_open
+                0x00000000401009cc                semihosting_file_seek
+                0x0000000040100a1c                semihosting_file_read
+                0x0000000040100aa2                semihosting_file_write
+                0x0000000040100b0c                semihosting_file_close
+                0x0000000040100b36                semihosting_file_length
+                0x0000000040100b60                semihosting_read_char
+                0x0000000040100b82                semihosting_write_char
+                0x0000000040100bac                semihosting_write_string
+                0x0000000040100bd0                semihosting_system
+                0x0000000040100c0e                semihosting_get_flen
+                0x0000000040100c7e                semihosting_download_file
+ .text          0x0000000040100d2c        0x8 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting_call.o
+                0x0000000040100d2c                semihosting_call
+ .text          0x0000000040100d34      0x15c /home/mrh/open-tee/build/../out/bios-qemu/drivers/uart.o
+                0x0000000040100d70                uart_flush_tx_fifo
+                0x0000000040100d9c                uart_init
+                0x0000000040100df6                uart_putc
+                0x0000000040100e2e                uart_have_rx_data
+                0x0000000040100e5e                uart_getchar
+ .text          0x0000000040100e90      0xf36 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+                0x0000000040101138                fdt_string
+                0x00000000401011bc                fdt_get_mem_rsv
+                0x000000004010123e                fdt_num_mem_rsv
+                0x00000000401012e6                fdt_subnode_offset_namelen
+                0x000000004010136c                fdt_subnode_offset
+                0x000000004010139e                fdt_path_offset
+                0x00000000401014a2                fdt_get_name
+                0x0000000040101526                fdt_first_property_offset
+                0x0000000040101560                fdt_next_property_offset
+                0x000000004010159a                fdt_get_property_by_offset
+                0x00000000401015fe                fdt_get_property_namelen
+                0x0000000040101680                fdt_get_property
+                0x00000000401016bc                fdt_getprop_namelen
+                0x00000000401016fa                fdt_getprop_by_offset
+                0x0000000040101752                fdt_getprop
+                0x000000004010178e                fdt_get_phandle
+                0x00000000401017fa                fdt_get_alias_namelen
+                0x0000000040101842                fdt_get_alias
+                0x0000000040101872                fdt_get_path
+                0x00000000401019e0                fdt_supernode_atdepth_offset
+                0x0000000040101aac                fdt_node_depth
+                0x0000000040101aec                fdt_parent_offset
+                0x0000000040101b2a                fdt_node_offset_by_prop_value
+                0x0000000040101bc8                fdt_node_offset_by_phandle
+                0x0000000040101c52                fdt_stringlist_contains
+                0x0000000040101ce8                fdt_node_check_compatible
+                0x0000000040101d3c                fdt_node_offset_by_compatible
+ .text          0x0000000040101dc6     0x120c /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+                0x0000000040102636                fdt_add_mem_rsv
+                0x00000000401026c8                fdt_del_mem_rsv
+                0x000000004010287e                fdt_set_name
+                0x000000004010291a                fdt_setprop
+                0x000000004010299a                fdt_appendprop
+                0x0000000040102a80                fdt_delprop
+                0x0000000040102ae4                fdt_add_subnode_namelen
+                0x0000000040102c16                fdt_add_subnode
+                0x0000000040102c48                fdt_del_node
+                0x0000000040102da4                fdt_open_into
+                0x0000000040102f6a                fdt_pack
+ .text          0x0000000040102fd2      0x258 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+                0x00000000401030c6                fdt_setprop_inplace
+                0x000000004010315c                fdt_nop_property
+                0x00000000401031a0                _fdt_node_end_offset
+                0x00000000401031e2                fdt_nop_node
+ *fill*         0x000000004010322a        0x2 
+ .text          0x000000004010322c      0x570 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+                0x00000000401032aa                fdt_check_header
+                0x000000004010333a                fdt_offset_ptr
+                0x00000000401033b6                fdt_next_tag
+                0x00000000401034e2                _fdt_check_node_offset
+                0x0000000040103522                _fdt_check_prop_offset
+                0x0000000040103562                fdt_next_node
+                0x0000000040103644                fdt_first_subnode
+                0x0000000040103684                fdt_next_subnode
+                0x00000000401036ca                _fdt_find_string
+                0x000000004010373a                fdt_move
+ .text          0x000000004010379c      0xde8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(snprintf.o)
+                0x000000004010379c                snprintf
+                0x00000000401037d2                vsnprintf
+ .text          0x0000000040104584      0x114 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memchr.o)
+                0x0000000040104584                memchr
+ .text          0x0000000040104698       0xb8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcmp.o)
+                0x0000000040104698                memcmp
+ .text          0x0000000040104750       0xf2 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcpy.o)
+                0x0000000040104750                memcpy
+ .text          0x0000000040104842      0x13e /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memmove.o)
+                0x0000000040104842                memmove
+ .text          0x0000000040104980      0x11c /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memset.o)
+                0x0000000040104980                memset
+ .text          0x0000000040104a9c       0x8a /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strlen.o)
+                0x0000000040104a9c                strlen
+ .text          0x0000000040104b26      0x168 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strchr.o)
+                0x0000000040104b26                strchr
+ *fill*         0x0000000040104c8e        0x2 
+ .text          0x0000000040104c90       0x40 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(aeabi_ldivmod_asm.o)
+                0x0000000040104c90                __aeabi_ldivmod
+                0x0000000040104cac                __aeabi_uldivmod
+ .text          0x0000000040104cd0      0x2b0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(aeabi_ldivmod.o)
+                0x0000000040104e28                __ul_divmod
+                0x0000000040104e9a                __l_divmod
+                0x0000000040104f80                __text_end = .
+
+.glue_7         0x0000000040104f80        0x0
+ .glue_7        0x0000000040104f80        0x0 linker stubs
+
+.glue_7t        0x0000000040104f80        0x0
+ .glue_7t       0x0000000040104f80        0x0 linker stubs
+
+.vfp11_veneer   0x0000000040104f80        0x0
+ .vfp11_veneer  0x0000000040104f80        0x0 linker stubs
+
+.v4_bx          0x0000000040104f80        0x0
+ .v4_bx         0x0000000040104f80        0x0 linker stubs
+
+.iplt           0x0000000040104f80        0x0
+ .iplt          0x0000000040104f80        0x0 /home/mrh/open-tee/build/../out/bios-qemu/bios/entry.o
+
+.rel.dyn        0x0000000040104f80        0x0
+ .rel.iplt      0x0000000040104f80        0x0 /home/mrh/open-tee/build/../out/bios-qemu/bios/entry.o
+
+.interp
+ *(.interp)
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(.init)
+
+.plt
+ *(.plt)
+                0x0000000040104f80                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0000000040104f80                __exidx_end = .
+
+.rodata         0x0000000040104f80      0x3c8
+                0x0000000040104f80                __rodata_start = .
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x0000000040104f80      0x302 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+                0x0000000040104f80                main_stack_top
+ *fill*         0x0000000040105282        0x2 
+ .rodata        0x0000000040105284       0x47 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+ *fill*         0x00000000401052cb        0x1 
+ .rodata        0x00000000401052cc       0x2f /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+ *fill*         0x00000000401052fb        0x1 
+ .rodata        0x00000000401052fc       0x49 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(snprintf.o)
+                0x0000000040105345                __start_ta_head_section = .
+ *(ta_head_section)
+                0x0000000040105345                __stop_ta_head_section = .
+                0x0000000040105348                . = ALIGN (0x4)
+ *fill*         0x0000000040105345        0x3 
+                0x0000000040105348                __rodata_end = .
+
+.data           0x0000000040105348        0x0
+                0x0000000040105348                __data_start_rom = .
+                0x0000000040105348                __data_start = .
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000040105348        0x0 /home/mrh/open-tee/build/../out/bios-qemu/bios/entry.o
+ .data          0x0000000040105348        0x0 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .data          0x0000000040105348        0x0 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+ .data          0x0000000040105348        0x0 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting_call.o
+ .data          0x0000000040105348        0x0 /home/mrh/open-tee/build/../out/bios-qemu/drivers/uart.o
+ .data          0x0000000040105348        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+ .data          0x0000000040105348        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+ .data          0x0000000040105348        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+ .data          0x0000000040105348        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+ .data          0x0000000040105348        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(snprintf.o)
+ .data          0x0000000040105348        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memchr.o)
+ .data          0x0000000040105348        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcmp.o)
+ .data          0x0000000040105348        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcpy.o)
+ .data          0x0000000040105348        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memmove.o)
+ .data          0x0000000040105348        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memset.o)
+ .data          0x0000000040105348        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strlen.o)
+ .data          0x0000000040105348        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strchr.o)
+ .data          0x0000000040105348        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(aeabi_ldivmod_asm.o)
+ .data          0x0000000040105348        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(aeabi_ldivmod.o)
+
+.igot.plt       0x0000000040105348        0x0
+ .igot.plt      0x0000000040105348        0x0 /home/mrh/open-tee/build/../out/bios-qemu/bios/entry.o
+
+.ctors          0x0000000040105348        0x0
+                0x0000000040105348                __ctor_list = .
+ *(.ctors)
+                0x0000000040105348                __ctor_end = .
+
+.dtors          0x0000000040105348        0x0
+                0x0000000040105348                __dtor_list = .
+ *(.dtors)
+                0x0000000040105348                __dtor_end = .
+
+.got
+ *(.got.plt)
+ *(.got)
+
+.dynamic
+ *(.dynamic)
+                0x0000000040105348                __data_end = .
+
+.bss            0x0000000040105348     0x4018
+ *(.bss.prebss.*)
+ .bss.prebss.stack
+                0x0000000040105348     0x4008 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+                0x0000000040109350                . = ALIGN (0x4)
+                0x0000000040109350                __bss_start = .
+ *(.bss .bss.*)
+ .bss           0x0000000040109350        0x0 /home/mrh/open-tee/build/../out/bios-qemu/bios/entry.o
+ .bss           0x0000000040109350       0x10 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .bss           0x0000000040109360        0x0 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+ .bss           0x0000000040109360        0x0 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting_call.o
+ .bss           0x0000000040109360        0x0 /home/mrh/open-tee/build/../out/bios-qemu/drivers/uart.o
+ .bss           0x0000000040109360        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+ .bss           0x0000000040109360        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+ .bss           0x0000000040109360        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+ .bss           0x0000000040109360        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+ .bss           0x0000000040109360        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(snprintf.o)
+ .bss           0x0000000040109360        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memchr.o)
+ .bss           0x0000000040109360        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcmp.o)
+ .bss           0x0000000040109360        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcpy.o)
+ .bss           0x0000000040109360        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memmove.o)
+ .bss           0x0000000040109360        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memset.o)
+ .bss           0x0000000040109360        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strlen.o)
+ .bss           0x0000000040109360        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strchr.o)
+ .bss           0x0000000040109360        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(aeabi_ldivmod_asm.o)
+ .bss           0x0000000040109360        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(aeabi_ldivmod.o)
+ *(.gnu.linkonce.b.*)
+ *(COMMON)
+                0x0000000040109360                . = ALIGN (0x4)
+                0x0000000040109360                __bss_end = .
+                0x0000000040109360                _end = .
+                0x0000000040109360                _end_of_ram = .
+
+/DISCARD/
+ *(.comment .note .eh_frame)
+LOAD /home/mrh/open-tee/build/../out/bios-qemu/bios/entry.o
+LOAD /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+LOAD /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+LOAD /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting_call.o
+LOAD /home/mrh/open-tee/build/../out/bios-qemu/drivers/uart.o
+LOAD /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a
+LOAD /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a
+LOAD /home/mrh/open-tee/toolchains/aarch32/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a
+OUTPUT(/home/mrh/open-tee/build/../out/bios-qemu/bios.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x3a
+ .ARM.attributes
+                0x0000000000000000       0x2c /home/mrh/open-tee/build/../out/bios-qemu/bios/entry.o
+ .ARM.attributes
+                0x000000000000002c       0x3e /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .ARM.attributes
+                0x000000000000006a       0x3e /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+ .ARM.attributes
+                0x00000000000000a8       0x2c /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting_call.o
+ .ARM.attributes
+                0x00000000000000d4       0x3e /home/mrh/open-tee/build/../out/bios-qemu/drivers/uart.o
+ .ARM.attributes
+                0x0000000000000112       0x3e /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+ .ARM.attributes
+                0x0000000000000150       0x3e /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+ .ARM.attributes
+                0x000000000000018e       0x3e /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+ .ARM.attributes
+                0x00000000000001cc       0x3e /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+ .ARM.attributes
+                0x000000000000020a       0x3e /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(snprintf.o)
+ .ARM.attributes
+                0x0000000000000248       0x3e /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memchr.o)
+ .ARM.attributes
+                0x0000000000000286       0x3e /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcmp.o)
+ .ARM.attributes
+                0x00000000000002c4       0x3e /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcpy.o)
+ .ARM.attributes
+                0x0000000000000302       0x3e /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memmove.o)
+ .ARM.attributes
+                0x0000000000000340       0x3e /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memset.o)
+ .ARM.attributes
+                0x000000000000037e       0x3e /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strlen.o)
+ .ARM.attributes
+                0x00000000000003bc       0x3e /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strchr.o)
+ .ARM.attributes
+                0x00000000000003fa       0x2c /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(aeabi_ldivmod_asm.o)
+ .ARM.attributes
+                0x0000000000000426       0x3e /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(aeabi_ldivmod.o)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mrh/open-tee/build/../out/bios-qemu/drivers/uart.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(snprintf.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memchr.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcmp.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcpy.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memmove.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memset.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strlen.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strchr.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(aeabi_ldivmod.o)
+
+.debug_line     0x0000000000000000     0x1fde
+ .debug_line    0x0000000000000000       0x8f /home/mrh/open-tee/build/../out/bios-qemu/bios/entry.o
+ .debug_line    0x000000000000008f      0x331 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .debug_line    0x00000000000003c0      0x21d /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+ .debug_line    0x00000000000005dd       0x48 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting_call.o
+ .debug_line    0x0000000000000625      0x164 /home/mrh/open-tee/build/../out/bios-qemu/drivers/uart.o
+ .debug_line    0x0000000000000789      0x376 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+ .debug_line    0x0000000000000aff      0x34b /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+ .debug_line    0x0000000000000e4a      0x1a5 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+ .debug_line    0x0000000000000fef      0x227 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+ .debug_line    0x0000000000001216      0x47b /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(snprintf.o)
+ .debug_line    0x0000000000001691      0x138 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memchr.o)
+ .debug_line    0x00000000000017c9      0x11b /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcmp.o)
+ .debug_line    0x00000000000018e4      0x11e /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcpy.o)
+ .debug_line    0x0000000000001a02      0x13b /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memmove.o)
+ .debug_line    0x0000000000001b3d      0x12a /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memset.o)
+ .debug_line    0x0000000000001c67      0x118 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strlen.o)
+ .debug_line    0x0000000000001d7f      0x151 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strchr.o)
+ .debug_line    0x0000000000001ed0       0x71 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(aeabi_ldivmod_asm.o)
+ .debug_line    0x0000000000001f41       0x9d /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(aeabi_ldivmod.o)
+
+.debug_info     0x0000000000000000     0x48ee
+ .debug_info    0x0000000000000000       0x59 /home/mrh/open-tee/build/../out/bios-qemu/bios/entry.o
+ .debug_info    0x0000000000000059      0x804 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .debug_info    0x000000000000085d      0x596 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+ .debug_info    0x0000000000000df3       0x64 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting_call.o
+ .debug_info    0x0000000000000e57      0x1a9 /home/mrh/open-tee/build/../out/bios-qemu/drivers/uart.o
+ .debug_info    0x0000000000001000     0x10c5 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+ .debug_info    0x00000000000020c5     0x1272 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+ .debug_info    0x0000000000003337      0x432 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+ .debug_info    0x0000000000003769      0x4fd /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+ .debug_info    0x0000000000003c66      0x3fb /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(snprintf.o)
+ .debug_info    0x0000000000004061       0xef /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memchr.o)
+ .debug_info    0x0000000000004150       0xd8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcmp.o)
+ .debug_info    0x0000000000004228       0xf8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcpy.o)
+ .debug_info    0x0000000000004320       0xf8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memmove.o)
+ .debug_info    0x0000000000004418       0xdd /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memset.o)
+ .debug_info    0x00000000000044f5       0xa6 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strlen.o)
+ .debug_info    0x000000000000459b       0xe2 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strchr.o)
+ .debug_info    0x000000000000467d       0x79 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(aeabi_ldivmod_asm.o)
+ .debug_info    0x00000000000046f6      0x1f8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(aeabi_ldivmod.o)
+
+.debug_abbrev   0x0000000000000000     0x124e
+ .debug_abbrev  0x0000000000000000       0x14 /home/mrh/open-tee/build/../out/bios-qemu/bios/entry.o
+ .debug_abbrev  0x0000000000000014      0x290 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .debug_abbrev  0x00000000000002a4      0x189 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+ .debug_abbrev  0x000000000000042d       0x14 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting_call.o
+ .debug_abbrev  0x0000000000000441       0xbe /home/mrh/open-tee/build/../out/bios-qemu/drivers/uart.o
+ .debug_abbrev  0x00000000000004ff      0x1dc /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+ .debug_abbrev  0x00000000000006db      0x215 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+ .debug_abbrev  0x00000000000008f0      0x1b1 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+ .debug_abbrev  0x0000000000000aa1      0x145 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+ .debug_abbrev  0x0000000000000be6      0x16d /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(snprintf.o)
+ .debug_abbrev  0x0000000000000d53       0xae /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memchr.o)
+ .debug_abbrev  0x0000000000000e01       0x82 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcmp.o)
+ .debug_abbrev  0x0000000000000e83       0x9f /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcpy.o)
+ .debug_abbrev  0x0000000000000f22       0x9f /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memmove.o)
+ .debug_abbrev  0x0000000000000fc1       0x93 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memset.o)
+ .debug_abbrev  0x0000000000001054       0x84 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strlen.o)
+ .debug_abbrev  0x00000000000010d8       0x86 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strchr.o)
+ .debug_abbrev  0x000000000000115e       0x14 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(aeabi_ldivmod_asm.o)
+ .debug_abbrev  0x0000000000001172       0xdc /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(aeabi_ldivmod.o)
+
+.debug_aranges  0x0000000000000000      0x260
+ .debug_aranges
+                0x0000000000000000       0x20 /home/mrh/open-tee/build/../out/bios-qemu/bios/entry.o
+ .debug_aranges
+                0x0000000000000020       0x20 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .debug_aranges
+                0x0000000000000040       0x20 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+ .debug_aranges
+                0x0000000000000060       0x20 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting_call.o
+ .debug_aranges
+                0x0000000000000080       0x20 /home/mrh/open-tee/build/../out/bios-qemu/drivers/uart.o
+ .debug_aranges
+                0x00000000000000a0       0x20 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+ .debug_aranges
+                0x00000000000000c0       0x20 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+ .debug_aranges
+                0x00000000000000e0       0x20 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+ .debug_aranges
+                0x0000000000000100       0x20 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+ .debug_aranges
+                0x0000000000000120       0x20 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(snprintf.o)
+ .debug_aranges
+                0x0000000000000140       0x20 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memchr.o)
+ .debug_aranges
+                0x0000000000000160       0x20 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcmp.o)
+ .debug_aranges
+                0x0000000000000180       0x20 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcpy.o)
+ .debug_aranges
+                0x00000000000001a0       0x20 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memmove.o)
+ .debug_aranges
+                0x00000000000001c0       0x20 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memset.o)
+ .debug_aranges
+                0x00000000000001e0       0x20 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strlen.o)
+ .debug_aranges
+                0x0000000000000200       0x20 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strchr.o)
+ .debug_aranges
+                0x0000000000000220       0x20 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(aeabi_ldivmod_asm.o)
+ .debug_aranges
+                0x0000000000000240       0x20 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(aeabi_ldivmod.o)
+
+.debug_macro    0x0000000000000000     0x19f9
+ .debug_macro   0x0000000000000000      0x139 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .debug_macro   0x0000000000000139      0x8fe /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .debug_macro   0x0000000000000a37       0x64 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .debug_macro   0x0000000000000a9b      0x16d /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .debug_macro   0x0000000000000c08       0x58 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .debug_macro   0x0000000000000c60       0x58 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .debug_macro   0x0000000000000cb8       0x7c /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .debug_macro   0x0000000000000d34       0x76 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .debug_macro   0x0000000000000daa       0x22 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .debug_macro   0x0000000000000dcc       0xca /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .debug_macro   0x0000000000000e96       0x10 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .debug_macro   0x0000000000000ea6       0x40 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .debug_macro   0x0000000000000ee6       0x52 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .debug_macro   0x0000000000000f38       0xd4 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .debug_macro   0x000000000000100c       0x9a /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .debug_macro   0x00000000000010a6       0x98 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+ .debug_macro   0x000000000000113e       0x10 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+ .debug_macro   0x000000000000114e       0x94 /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+ .debug_macro   0x00000000000011e2      0x1a5 /home/mrh/open-tee/build/../out/bios-qemu/drivers/uart.o
+ .debug_macro   0x0000000000001387       0x64 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+ .debug_macro   0x00000000000013eb       0xda /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+ .debug_macro   0x00000000000014c5       0x22 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+ .debug_macro   0x00000000000014e7       0x6a /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+ .debug_macro   0x0000000000001551       0x64 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+ .debug_macro   0x00000000000015b5       0x64 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+ .debug_macro   0x0000000000001619      0x115 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(snprintf.o)
+ .debug_macro   0x000000000000172e       0x5d /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memchr.o)
+ .debug_macro   0x000000000000178b       0x7c /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memchr.o)
+ .debug_macro   0x0000000000001807       0x48 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcmp.o)
+ .debug_macro   0x000000000000184f       0x4e /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcpy.o)
+ .debug_macro   0x000000000000189d       0x5b /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memmove.o)
+ .debug_macro   0x00000000000018f8       0x48 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memset.o)
+ .debug_macro   0x0000000000001940       0x51 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strlen.o)
+ .debug_macro   0x0000000000001991       0x57 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strchr.o)
+ .debug_macro   0x00000000000019e8       0x11 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(aeabi_ldivmod.o)
+
+.debug_str      0x0000000000000000     0x5f82
+ .debug_str     0x0000000000000000     0x443e /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+                                       0x45f9 (松开之前的大小)
+ .debug_str     0x000000000000443e      0x29d /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+                                       0x34ad (松开之前的大小)
+ .debug_str     0x00000000000046db      0x49b /home/mrh/open-tee/build/../out/bios-qemu/drivers/uart.o
+                                       0x3275 (松开之前的大小)
+ .debug_str     0x0000000000004b76      0x50c /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+                                       0x3b34 (松开之前的大小)
+ .debug_str     0x0000000000005082      0x3d6 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+                                       0x3c10 (松开之前的大小)
+ .debug_str     0x0000000000005458       0x6a /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+                                       0x3743 (松开之前的大小)
+ .debug_str     0x00000000000054c2       0x42 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+                                       0x37ca (松开之前的大小)
+ .debug_str     0x0000000000005504      0x559 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(snprintf.o)
+                                       0x32cd (松开之前的大小)
+ .debug_str     0x0000000000005a5d      0x28c /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memchr.o)
+                                       0x2e2e (松开之前的大小)
+ .debug_str     0x0000000000005ce9       0x6f /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcmp.o)
+                                       0x2bf9 (松开之前的大小)
+ .debug_str     0x0000000000005d58       0xab /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcpy.o)
+                                       0x2c36 (松开之前的大小)
+ .debug_str     0x0000000000005e03       0x28 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memmove.o)
+                                       0x2e21 (松开之前的大小)
+ .debug_str     0x0000000000005e2b       0x55 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memset.o)
+                                       0x2bdd (松开之前的大小)
+ .debug_str     0x0000000000005e80       0x1e /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strlen.o)
+                                       0x2dce (松开之前的大小)
+ .debug_str     0x0000000000005e9e       0x66 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strchr.o)
+                                       0x2e02 (松开之前的大小)
+ .debug_str     0x0000000000005f04       0x7e /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(aeabi_ldivmod.o)
+                                       0x270c (松开之前的大小)
+
+.debug_frame    0x0000000000000000     0x16a0
+ .debug_frame   0x0000000000000000      0x238 /home/mrh/open-tee/build/../out/bios-qemu/bios/main.o
+ .debug_frame   0x0000000000000238      0x21c /home/mrh/open-tee/build/../out/bios-qemu/bios/semihosting.o
+ .debug_frame   0x0000000000000454      0x114 /home/mrh/open-tee/build/../out/bios-qemu/drivers/uart.o
+ .debug_frame   0x0000000000000568      0x500 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_ro.o)
+ .debug_frame   0x0000000000000a68      0x620 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_rw.o)
+ .debug_frame   0x0000000000001088      0x160 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt_wip.o)
+ .debug_frame   0x00000000000011e8      0x1c8 /home/mrh/open-tee/build/../out/bios-qemu/libfdt/libfdt.a(fdt.o)
+ .debug_frame   0x00000000000013b0       0xa8 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(snprintf.o)
+ .debug_frame   0x0000000000001458       0x38 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memchr.o)
+ .debug_frame   0x0000000000001490       0x38 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcmp.o)
+ .debug_frame   0x00000000000014c8       0x38 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memcpy.o)
+ .debug_frame   0x0000000000001500       0x38 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memmove.o)
+ .debug_frame   0x0000000000001538       0x38 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(memset.o)
+ .debug_frame   0x0000000000001570       0x38 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strlen.o)
+ .debug_frame   0x00000000000015a8       0x38 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(strchr.o)
+ .debug_frame   0x00000000000015e0       0xc0 /home/mrh/open-tee/build/../out/bios-qemu/libutils/libutils.a(aeabi_ldivmod.o)
